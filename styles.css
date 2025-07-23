@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  line-height: 1.6;
+  color: #000;
+}
+
+
+.sender {
+  text-align: right;
+}
+
+.reciever {
+  margin-top: 40px;
+}
+h2,h3 {
+  margin-top: 40px;
+}
+
+ul {
+  margin-top: 0;
+}
+.dance-name {
+  font-weight: bold;
+  margin-top: 20px;
+}
+.dance-desc {
+  margin-left: 20px;
+}
+.footer-quote {
+  margin-top: 40px;
+  font-size: 0.9em;
+}
